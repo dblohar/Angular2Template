@@ -1,0 +1,40 @@
+
+/* You can add global styles to this file, and also import other style files */
+.my-main-panel
+{
+    background-color:transparent;
+    border-radius: 0px;
+    background-attachment: fixed;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    background: url('./assets/images/background5.jpg')  no-repeat center center fixed;
+	background-size: 100% 100%;
+}
+
+.my-page
+{
+    width: 80%;
+    margin:0px;
+
+}
+
+.my-body
+{
+    height: 500px;
+}
+
+.panel-heading h3
+{
+    margin:0px;
+}
+
+.my-paragraph
+{
+    font-size: 14px;
+    text-align: justify;
+}
+

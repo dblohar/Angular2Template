@@ -1,0 +1,23 @@
+.icon
+{
+    font-size: 70px;
+    color: steelblue;
+}
+
+.col-title
+{
+    color:maroon;
+    border-bottom: 2px solid maroon;
+    text-align: center;
+}
+
+.col-middle
+{
+    border-left: 1px dotted;
+    border-right: 1px dotted;
+}
+
+.common
+{
+    word-wrap: break-word;
+}
